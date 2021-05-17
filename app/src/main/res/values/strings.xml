@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="dummy_title">Iron Man</string>
+    <string name="dummy_rating">9.0</string>
+    <string name="dummy_genres">Action, Adventure</string>
+    <string name="dummy_year">2011</string>
+    <string name="director">Director</string>
+    <string name="dummy_duration">2h 30m</string>
+    <string name="dummy_language">English</string>
+    <string name="dummy_cast_name">Dandi</string>
+    <string name="dummy_character_name">Tony Stark</string>
+    <string name="cast">Cast</string>
+    <string name="genres">Genres</string>
+    <string name="dummy_overview">overview</string>
+    <string name="overview">Overview</string>
+    <string name="season">Season</string>
+    <string name="dummy_episode">15 Episodes</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="removie_from_fravorite">Removie from Fravorite</string>
+    <string name="favorite">Favorite</string>
+</resources>
